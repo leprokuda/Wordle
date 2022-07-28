@@ -36,4 +36,9 @@ h1 {
     align-items: center;
     /* делаем все буквы большими */
     text-transform: uppercase;
-  }   
+  }
+  
+  /* добавляем жирную обводку у заполненных клеток */
+.filled-box {
+  border: 3px solid black;
+}
